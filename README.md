@@ -1,4 +1,4 @@
-# Olá, eu sou Allan! 👋
+# Olá, eu sou o Allan! 👋
 
 🎓 Estudante de **Ciência da Computação** (4º período)
 🐍 Aprendendo **Python** e **Inteligência Artificial**
@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-📚 *Próximos passos: HTML, CSS, JavaScript, SQL, bibliotecas de IA...*
+📚 *Próximos passos: HTML, CSS, JavaScript, SQL ...*
 
 ---
 
