@@ -19,7 +19,8 @@ Estudante de Ciência da Computação (4º período), com foco em desenvolviment
 
 - Automação em Python que baixa uma planilha de vendas do Google Drive, calcula o faturamento e envia o relatório por e-mail. Utiliza PyAutoGUI e tratamento de dados com pandas.  
 [Repositório](https://github.com/AllanArrepia/Automacao-gmail-drive)
-<img src="[https://raw.githubusercontent.com/AllanArrepia/Automacao-gmail-drive/main/demo.gif(https://github.com/AllanArrepia/Automacao-gmail-drive/blob/main/demo.gif)](https://github.com/AllanArrepia/Automacao-gmail-drive/blob/main/demo.gif)" width="600" alt="Demonstração da automação Gmail e Drive em execução">
+<img src="https://raw.githubusercontent.com/AllanArrepia/Automacao-gmail-drive/main/demo.gif" width="600" alt="Demonstração da automação Gmail e Drive em execução">
+
 **Chatbot com DialogFlow e Telegram**
 
 - Chatbot desenvolvido durante curso do Senac, integrado ao Telegram via API.  
