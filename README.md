@@ -1,29 +1,36 @@
-# Olá, eu sou o Allan! 👋
+# Olá, eu sou o Allan!
 
-🎓 Estudante de **Ciência da Computação** (4º período)
-🐍 Aprendendo **Python** e **Inteligência Artificial**
-🚀 Em busca da primeira oportunidade na área
+Estudante de Ciência da Computação (4º período), com foco em desenvolvimento de software
 
----
-
-## 🛠️ Tecnologias que estou aprendendo
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-📚 *Próximos passos: HTML, CSS, JavaScript, SQL ...*
 
 ---
 
-## 📌 Projetos
+## Sobre mim
 
-🚧 Em breve! Estou desenvolvendo meus primeiros projetos em Python
+- Atuo com automação de processos e uso de Inteligência Artificial no dia a dia profissional, incluindo produção de audiobooks com IA.
+- Estudo Python, HTML, CSS, JavaScript e SQL, com certificações pelo Senac e pela Hashtag Treinamentos.
+- Busco oportunidade de estágio.
 
 ---
 
-## 📬 Onde me encontrar
+## Projetos
+
+**Automacao-gmail-drive**
+
+- Automação em Python que baixa uma planilha de vendas do Google Drive, calcula o faturamento e envia o relatório por e-mail. Utiliza PyAutoGUI e tratamento de dados com pandas.  
+[Repositório](https://github.com/AllanArrepia/Automacao-gmail-drive)
+<img src="[https://raw.githubusercontent.com/AllanArrepia/Automacao-gmail-drive/main/demo.gif(https://github.com/AllanArrepia/Automacao-gmail-drive/blob/main/demo.gif)](https://github.com/AllanArrepia/Automacao-gmail-drive/blob/main/demo.gif)" width="600" alt="Demonstração da automação Gmail e Drive em execução">
+**Chatbot com DialogFlow e Telegram**
+
+- Chatbot desenvolvido durante curso do Senac, integrado ao Telegram via API.  
+[Repositório](link-do-repositorio)
+---
+
+## Tecnologias
+
+Python · Git · GitHub · VS Code
+
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-gabriel-vasconcelos-arrepia-498a45213/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=allanarrepia@gmail.com)
