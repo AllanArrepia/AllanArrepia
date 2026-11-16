@@ -21,10 +21,12 @@ Estudante de Ciência da Computação (4º período), com foco em desenvolviment
 [Repositório](https://github.com/AllanArrepia/Automacao-gmail-drive)
 <img src="https://raw.githubusercontent.com/AllanArrepia/Automacao-gmail-drive/main/demo.gif" width="600" alt="Demonstração da automação Gmail e Drive em execução">
 
-**Chatbot com DialogFlow e Telegram**
+**Brotinho: Chatbot com DialogFlow**  
+Assistente virtual sobre plantas, criado no DialogFlow ES durante curso do Senac. Recomenda espécies conforme a iluminação, orienta sobre pragas e coleta avaliação do atendimento. Integrado ao Telegram (ativo) e ao WhatsApp via Landbot (durante o período de teste).
 
-- Chatbot desenvolvido durante curso do Senac, integrado ao Telegram via API.  
-[Repositório](link-do-repositorio)
+<img src="https://raw.githubusercontent.com/AllanArrepia/chatbot-dialogflow-telegram/main/demo.png" width="300" alt="Conversa com o Brotinho no Telegram">
+
+[Repositório](https://github.com/AllanArrepia/chatbot-dialogflow-telegram)
 ---
 
 ## Tecnologias
